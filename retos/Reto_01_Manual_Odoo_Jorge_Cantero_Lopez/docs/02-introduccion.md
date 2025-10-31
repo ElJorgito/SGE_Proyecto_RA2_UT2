@@ -1,13 +1,6 @@
 # 02 — Introducción
 -En este proyecto que estas a punto de leer es un manual y guia sobre todo lo relacionado con Odoo para tu negocio.-
 
-> **Objetivo:** Entender qué es Odoo y qué se cubrirá en el manual.
-
-- Odoo como suite modular (CRM, ventas, contabilidad, inventario, marketing, proyectos, e-commerce, documentos, etc.).
-- Community vs Enterprise (soporte, app móvil, Odoo Studio).
-- Ventajas: integración entre módulos, escalabilidad, personalización.
-- Consideraciones: rendimiento depende del hosting; calidad de algunos módulos Community.
-
 # ¿Que es Odoo?
 En resumidas palabras es una suite modular de soluciones empresariales con una gran variedad de aplicaciones para la gestion empresarial de tu negocio/empresa, desde CRMs, ERPs, contabilidad, entre muchas más cosas.
 
@@ -36,8 +29,14 @@ Hay dos tipos de Odoo, el Community y el Enterprise, y vamos a dictar sus difere
 
 
 # Ventajas Odoo
-
+| Comparativa | Odoo | Otros ERPs |
+| ------ | ----- | ------- |
+| Costes / Accesibilidad | Versión Community gratuita/Enterprise con precio accesible | Inversión inicial alta y alto coste en mantenimiento y licencias |
+| Flexibilidad / Modularidad | Es altamente modular y fácil de adaptara cualquier necesidad | Es menos flexible y requiere paquetes completos para ampliar funciones |
+| Personalización | Es de código abierto, con una comunidad activa y grandes opciones de personalización | Es de código cerrado o limitado y tiene opciones de personalización complejas |
+| Uso e Integración | Interfaz intuitiva con multiples herramientas | Interfaz menos amigable y costosa |
 
 # Consideraciones en cuanto a Odoo
-
+- Algo a considerar del rendimiento de Odoo, desde el punto de vista de grandes volumenes depende mucho del alojomiento que se tenga, ya que cuantos más datos se tengan, más dificil será tener recursos para manejarlos todos.
+- Otra cosa a considerar son los modulos de la versión community, ya que algunos de los modulos pueden no ser compatibles que la última versión que tengamos ya que estaran desactualizados o tengamos algun tipo de incompatibilidad ya que a veces la calidad de estos no es la mejor.
 
