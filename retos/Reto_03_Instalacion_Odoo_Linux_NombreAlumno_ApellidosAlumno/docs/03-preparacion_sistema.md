@@ -13,4 +13,10 @@
 
 2. Configura zona horaria e idioma si procede.
 
+   ```bash
+      date
+      sudo timedatectl set-timezone "Europe/Madrid"
+   ```
+   ![Update/Upgrade](../assets/img/03-preparacion_sistema/03-fechayhora.png)
+
 > Resultado esperado: sistema actualizado y listo para instalar dependencias.
