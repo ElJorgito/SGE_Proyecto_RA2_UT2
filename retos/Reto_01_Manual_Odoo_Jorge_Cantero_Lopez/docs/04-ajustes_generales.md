@@ -21,7 +21,10 @@
 ![Verificación](../assets/img/04-ajustes_generales/04-ajustes-seguridad.png)
 
 ## - **Usuarios y compañías**: roles por módulo; en Enterprise se paga por usuario.
+> A continuación se ve en que parte de la aplicacion se pueden gestionar Usuarios y Empresas, para añadir o quitar los dichos y asignar roles a los usuarios y demás privilegios y organización.
 
+![Usuarios](../assets/img/04-ajustes_generales/04-ajustes-nuevousuario.png)
+![Compañias](../assets/img/04-ajustes_generales/04-ajustes-nuevacompañia.png)
 
 ## - **Idiomas** y **diseño de documentos** (plantillas de factura).
 
