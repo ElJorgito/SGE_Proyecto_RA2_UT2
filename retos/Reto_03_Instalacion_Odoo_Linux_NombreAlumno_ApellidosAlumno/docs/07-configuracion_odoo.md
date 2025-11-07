@@ -1,6 +1,10 @@
 # 07 — Configuración de Odoo (`/etc/odoo/odoo.conf`)
 
 1. Crea/edita el archivo de configuración con:
+   ```bash
+   sudo nano /etc/odoo/odoo.conf
+   ```
+   Se ejecuta ese codigo para accceder a la configuracion y se cambian y añaden estos cambios
    ```ini
    [options]
    db_host = 172.0.0.1
