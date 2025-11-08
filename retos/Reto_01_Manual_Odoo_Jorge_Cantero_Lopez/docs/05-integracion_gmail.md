@@ -33,13 +33,20 @@
 ![Permisos2](../assets/img/05-integracion_gmail/05-integracion-permisos2.png)
 ### - 4 El tipo de aplicación será Aplicación Web y añadimos la siguiente URL
 ![URL](../assets/img/05-integracion_gmail/05-integracion-url.png)
-### - 5 
+### - 5 Y en credenciales le damos a listo
 
 ### 3. Copiar **Client ID/Secret** a Odoo (Gmail server settings) y **Guardar**.
+> Después nos vamos credenciales y seleccionamos la que acabamos de hacer, podremos ver el idcliente y el secreto
+![ID](../assets/img/05-integracion_gmail/05-integracion-id.png)
+![Secret](../assets/img/05-integracion_gmail/05-integracion-secreto.png)
 
+> Copias la idcliente y en la opcion de proveedores que sale justo abajo de autenticación OAuth la pegas
+![Clienteid](../assets/img/05-integracion_gmail/05-integracion-idcliente.png)
+
+> Por último vamos al apartado de correo electronico en los ajustes generales y le damos a Utilizar servidores de correo electrónico personalizados, piniendo el id y secreto del cliente
+![IDYSecreto](../assets/img/05-integracion_gmail/05-integracion-idysecreto.png)
 
 ### 4. Probar desde Gmail: crear contacto/oportunidad desde el add-on.
 
 
 
-![GCP OAuth](../assets/img/05-integracion_gmail/paso01_gcp-oauth.png "GCP OAuth")
