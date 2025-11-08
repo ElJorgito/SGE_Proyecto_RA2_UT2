@@ -26,6 +26,9 @@
 > A la hora de hacer una videollamada simplemente hacemos click en una fecha del calendario y saldra este menu donde se puede configurar todo la la videollamada y poner el enlace de la misma
 ![Meet](../assets/img/07-calendario_y_citas/07-calendario-menu.png)
 
+> Al crearla y acceder a ella desde el calendario saldra este menu para unirse y modificar la videollamada
+![Videollamada](../assets/img/07-calendario_y_citas/07-calendario-videollamada.png)
+
 ## - **Módulo Citas** (Enterprise): enlaces públicos, buffers, preguntas previas.
 
 
