@@ -31,4 +31,9 @@
 
 ## - **Módulo Citas** (Enterprise): enlaces públicos, buffers, preguntas previas.
 
+> En otro modulo llamado citas podemos agendar citas y compromisos de manera fácil y rápida, tambien se pueden hacer preguntas previas en relacion a la reunión en el apartado de preguntas
+![Citas](../assets/img/07-calendario_y_citas/07-citas-preguntas.png)
 
+> A la hora de compartir el enlace saldra esto en pantalla para programar una cita con la persona o usuario que haya en la reunión. Una vez programada la cita saldra en el calendario de Odoo tambien.
+![cita](../assets/img/07-calendario_y_citas/07-citas-compartir.png)
+![programar](../assets/img/07-calendario_y_citas/07-citas-reunion.png)
