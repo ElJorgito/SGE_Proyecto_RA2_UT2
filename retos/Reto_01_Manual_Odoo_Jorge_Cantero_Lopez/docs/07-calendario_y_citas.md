@@ -1,10 +1,27 @@
 # 07 — Calendario y Citas
 
-> Estructura orientativa
+> Ahora vamos a ver como configurar el calendario
 
-- Calendario (día/semana/mes) + disponibilidad del equipo.
-- **Integración con Google Calendar** (API OAuth GCP).
-- **Odoo Meet** (videollamadas) o enlaces externos.
-- **Módulo Citas** (Enterprise): enlaces públicos, buffers, preguntas previas.
+## - Calendario (día/semana/mes) + disponibilidad del equipo.
+![Dia](../assets/img/07-calendario_y_citas/07-calendario-dia.png)
+![Semana](../assets/img/07-calendario_y_citas/07-calendario-semana.png)
+![Mes](../assets/img/07-calendario_y_citas/07-calendario-mes.png)
 
-![Calendario](../assets/img/07-calendario_y_citas/paso01_calendario.png "Calendario")
+## - **Integración con Google Calendar** (API OAuth GCP).
+> A hora vamos a ver como integrarlo con el candelario de google en el mismo lugar en el que integramos el correo, creando un nuevo proyecto.
+![Cloud](../assets/img/07-calendario_y_citas/07-calendario-cloud.png)  
+
+> Y lo que tenemos que hacer ahora es habilitar otra API
+![API](../assets/img/07-calendario_y_citas/07-calendario-api.png)
+
+> Después tenemos que hacer los mismos pasos que con la API del email con los 5 pasos y en agregar o quitar permisos, filtras por Calendario API y seleccionas TODAS
+
+> Y como dato la URL de redireccionamiento es esta:
+![URL](../assets/img/07-calendario_y_citas/07-calendario-url.png)
+
+## - **Odoo Meet** (videollamadas) o enlaces externos.
+
+
+## - **Módulo Citas** (Enterprise): enlaces públicos, buffers, preguntas previas.
+
+
