@@ -1,5 +1,6 @@
 # Índice
 
+0. [Portada](./00-portada.md)
 1. [Introducción](./02-introduccion.md)
 2. [Instalación y prueba](./03-instalacion.md)
 3. [Ajustes generales](./04-ajustes_generales.md)
