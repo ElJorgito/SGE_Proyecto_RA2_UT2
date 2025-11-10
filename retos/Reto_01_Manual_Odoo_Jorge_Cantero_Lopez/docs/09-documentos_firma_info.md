@@ -20,6 +20,12 @@
 ![Firma](../assets/img/09-documentos_firma_info/09-documentos-firma2.png)
 
 ## - **Información (Knowledge)**: wiki tipo Notion, permisos y publicación.
+- Por último vamos a ver el modulo de información que es una alternativa a otras opciones y que viene implemetada directamente en este modulo de Odoo
+- Este modulo funciona como un tipo Notion, por espacios de trabajo, se pueden añadir elementos con los tres puntos de arriba a la derecha y poniendo la barra lateral /
+![Info](../assets/img/09-documentos_firma_info/09-documentos-informacion.png)
 
+- A la hora de dar permisos si se quisiese compartir se podria poner si se puede editar, solo leer o si solo lo ven los miembros
+![Permisos](../assets/img/09-documentos_firma_info/09-documentos-permisos.png)
 
-
+- Y por último a la hora de publicar esto como se ve en la imagen anterior, se puede activar la opcion de compartir en la web, y alguien al poner el enlace en el buscador veria esto:
+![Web](../assets/img/09-documentos_firma_info/09-documentos-compartir.png)
