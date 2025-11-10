@@ -45,6 +45,8 @@
 ![Calendario](../assets/img/08-proyectos/08-proyectos-calendario.png)
 
 ## - Registro rápido de actividades y **calificación del cliente**.
+- Tambien otro apartado en el que se pueden ver un registro superficial de todas las tareas en la barra superior y todas las tareas
+![Registro](../assets/img/08-proyectos/08-proyectos-registro.png)
 - En el apartado de calificacion de clientes que esta en la barra superior en informes se va a recibir el feedback de cada cliente
 
 
