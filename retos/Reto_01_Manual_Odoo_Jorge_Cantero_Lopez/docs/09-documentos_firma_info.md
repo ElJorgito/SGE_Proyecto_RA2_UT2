@@ -13,7 +13,11 @@
 ![pdf2](../assets/img/09-documentos_firma_info/09-documentos-pdf2.png)
 
 ## - **Firma electrónica**: campos (firma/nombre/fecha), envío y registro.
+- Tambien esta el modulo de firma electronica que se puede compenetrar y ser muy util con el modulo de documentos, además de poderse añadir varios campos al documento que vamos a firmar como las opciones de la barra lateral izquierda
+![Firma](../assets/img/09-documentos_firma_info/09-documentos-firma.png)
 
+- A la hora de enviar los documentos firmados se pueden seleccionar los contacos, hasta cuando es valido, recordatorios, etc
+![Firma](../assets/img/09-documentos_firma_info/09-documentos-firma2.png)
 
 ## - **Información (Knowledge)**: wiki tipo Notion, permisos y publicación.
 
