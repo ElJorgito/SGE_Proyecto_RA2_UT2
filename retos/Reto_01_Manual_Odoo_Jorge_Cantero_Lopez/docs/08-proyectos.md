@@ -36,9 +36,15 @@
 
 - Y por último la opcion de Hitos que es simplemente para recalcar los puntos más importantes que se han realizado de un proyecto
 ## - Vistas: tarjetas, lista, calendario propio.
->
+- Hay diferenes formas de ver el rendimiento o mejor dicho de como van las tareas
+- Tarjetas (con forma de grafica)
+![Tarjeta](../assets/img/08-proyectos/08-proyectos-tarjetas.png)
+- Listas de las tareas
+![Lista](../assets/img/08-proyectos/08-proyectos-listas.png)
+- Y en el calendario salen las tareas por dia y se pueden filtrar 
+![Calendario](../assets/img/08-proyectos/08-proyectos-calendario.png)
 
 ## - Registro rápido de actividades y **calificación del cliente**.
->
+- En el apartado de calificacion de clientes que esta en la barra superior en informes se va a recibir el feedback de cada cliente
 
 
