@@ -9,5 +9,5 @@
    - Define usuario `postgres` y contraseña **segura** (anótala).
 
 3. Comprueba que el **servicio de PostgreSQL** está en ejecución.
-
+![Ejecucion](../assets/img/04-postgresql_windows/04-postgresql-ejecucion.png)
 > Resultado esperado: PostgreSQL instalado y funcionando (usuario/puerto guardados).
