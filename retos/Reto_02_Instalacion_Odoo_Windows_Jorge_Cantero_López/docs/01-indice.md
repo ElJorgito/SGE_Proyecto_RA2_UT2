@@ -1,12 +1,14 @@
 # Índice
-1. [Requisitos previos](./02-requisitos_previos.md)
-2. [Descarga del instalador](./03-descarga_instalador.md)
-3. [PostgreSQL en Windows](./04-postgresql_windows.md)
-4. [Instalación de Odoo](./05-instalacion_odoo.md)
-5. [Configuración inicial](./06-configuracion_inicial.md)
-6. [Ejecución/servicio](./07-ejecucion_servicio.md)
-7. [Creación de BD de prueba](./08-creacion_bd_prueba.md)
-8. [Verificación de acceso](./09-verificacion.md)
-9. [Problemas comunes (FAQ)](./10-troubleshooting.md)
-10. [Checklist final](./11-checklist.md)
-11. [Bibliografía y fuentes](./99-bibliografia.md)
+![[00-portada.md]]
+![[02-requisitos_previos.md]]
+![[03-descarga_instalador.md]]
+![[04-postgresql_windows.md]]
+![[05-instalacion_odoo.md]]
+![[06-configuracion_inicial.md]]
+![[07-ejecucion_servicio.md]]
+![[08-creacion_bd_prueba.md]]
+![[09-verificacion.md]]
+![[10-troubleshooting.md]]
+![[11-checklist.md]]
+![[99-bibliografia.md]]
+
