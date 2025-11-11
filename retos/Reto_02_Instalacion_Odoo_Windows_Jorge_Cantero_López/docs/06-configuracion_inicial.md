@@ -6,4 +6,5 @@
 
 - Si se quisiesen hacer estos cambios, tendrias que instalar Odoo y PostgreSQL por separado y en los archivos de Odoo ir a esta carpeta server y abrir el archivo conf y ahí se hacen las configuraciones
 ![Archivo](../assets/img/06-configuracion_inicial/06-configuracion-archivo.png)
+
 > Resultado esperado: parámetros básicos identificados/documentados.
