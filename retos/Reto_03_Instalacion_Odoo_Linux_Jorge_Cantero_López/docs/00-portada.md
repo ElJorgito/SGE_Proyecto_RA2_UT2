@@ -1,4 +1,4 @@
-# Instalación de Odoo en Linux — {Nombre Apellidos}
+# Instalación de Odoo en Linux — {Jorge Cantero López}
 **Reto:** Reto_03_Instalacion_Odoo_Linux_Jorge_Cantero_Lopez  
 **Proyecto:** Proyecto_RA2_UT2  
 **Fecha:** {2025-11-07}
