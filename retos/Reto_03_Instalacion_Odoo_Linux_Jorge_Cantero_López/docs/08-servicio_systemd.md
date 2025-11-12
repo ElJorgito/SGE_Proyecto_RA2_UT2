@@ -23,6 +23,6 @@
    sudo systemctl status odoo
    ```
 
-![systemd](../assets/img/08-servicio_systemd/paso01_status-odoo.png "Estado de systemd")
+![systemd](../assets/img/08-servicio_systemd/08-servicio-systemd.png)
 
 > Resultado esperado: servicio `odoo` activo y habilitado.
