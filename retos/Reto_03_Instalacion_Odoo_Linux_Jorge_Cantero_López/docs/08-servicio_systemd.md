@@ -16,13 +16,13 @@
    [Install]
    WantedBy=multi-user.target
    ```
+   ![systemd](../assets/img/08-servicio_systemd/08-servicio-systemd.png)
 2. Recarga y arranca:
    ```bash
    sudo systemctl daemon-reload
    sudo systemctl enable --now odoo
    sudo systemctl status odoo
    ```
-
-![systemd](../assets/img/08-servicio_systemd/08-servicio-systemd.png)
+   ![Recarga](../assets/img/08-servicio_systemd/08-servicio-recarga.png)
 
 > Resultado esperado: servicio `odoo` activo y habilitado.
