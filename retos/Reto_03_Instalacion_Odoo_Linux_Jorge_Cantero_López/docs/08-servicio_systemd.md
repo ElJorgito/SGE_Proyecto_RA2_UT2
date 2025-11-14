@@ -16,7 +16,6 @@
    [Install]
    WantedBy=multi-user.target
    ```
-   ![systemd](../assets/img/08-servicio_systemd/08-servicio-systemd.png)
 2. Recarga y arranca:
    ```bash
    sudo systemctl daemon-reload

@@ -22,6 +22,6 @@ Enlace fuente: http://gist.github.com/roydejong/7f36c1ded1dda627eeee9a0b332e9eff
    python3 --version
    wkhtmltopdf --version
    ```
-   ![Python](../assets/img/05-dependencias/05-depencencias-version.png)
+   ![Python](../assets/img/05-dependencias/05-depencencias-version.png)  
    ![Version2](../assets/img/05-dependencias/05-depencencias-version2.png)
 > Resultado esperado: dependencias instaladas y comprobadas.
