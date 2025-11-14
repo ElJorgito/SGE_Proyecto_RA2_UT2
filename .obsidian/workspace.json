@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "bf737e520fe87aa3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e21e764040b09d98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98624c8fb575ab43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos/Reto_02_Instalacion_Odoo_Windows_Jorge_Cantero_López/docs/01-indice.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "01-indice"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be0415f77aa6833a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4358e0f7c63d40ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc4bc82196b77e16",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "1c2e9b40d8a81a82",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "4639b598ba9a0f09",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b7e455572a598874",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6c25c4e1563416a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16db9e1d4b34c5a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "retos/Reto_02_Instalacion_Odoo_Windows_Jorge_Cantero_López/docs/01-indice.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 01-indice"
+            }
+          },
+          {
+            "id": "233106bf589ed188",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "retos/Reto_02_Instalacion_Odoo_Windows_Jorge_Cantero_López/docs/01-indice.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de 01-indice"
+            }
+          },
+          {
+            "id": "0ae8ed8f196e0dd0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "abcd57cc55b0310c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "retos/Reto_02_Instalacion_Odoo_Windows_Jorge_Cantero_López/docs/01-indice.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de 01-indice"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "98624c8fb575ab43",
+  "lastOpenFiles": [
+    "retos/Reto_03_Instalacion_Odoo_Linux_Jorge_Cantero_López/assets/img/00-portada.jpg",
+    "retos/Reto_03_Instalacion_Odoo_Linux_Jorge_Cantero_López/docs/01-indice.md"
+  ]
+}
