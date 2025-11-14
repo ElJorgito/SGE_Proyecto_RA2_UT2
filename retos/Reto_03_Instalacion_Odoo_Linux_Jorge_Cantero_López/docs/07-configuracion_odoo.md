@@ -10,7 +10,7 @@
    db_host = 172.0.0.1
    db_port = 5432
    db_user = odoo
-   db_password = pwd
+   db_password = False
    addons_path = /opt/odoo/odoo-src/addons
    logfile = /var/log/odoo/odoo.log
    xmlrpc_port = 8069

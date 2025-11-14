@@ -4,12 +4,12 @@
    ```bash
    sudo apt update 
    ```
-   ![Update/Upgrade](../assets/img/03-preparacion_sistema/03-sudoupdate.png)  
+   ![Update/Upgrade](../assets/img/03-preparacion_sistema/03-preparacion-update.png)  
 
    ```bash
    sudo apt upgrade
    ```
-   ![Update/Upgrade](../assets/img/03-preparacion_sistema/03-sudoupgrade.png)
+   ![Update/Upgrade](../assets/img/03-preparacion_sistema/03-preparacion-upgrade.png)
 
 2. Configura zona horaria e idioma si procede.
 
@@ -17,7 +17,6 @@
       date
       sudo timedatectl set-timezone "Europe/Madrid"
    ```
-   ![FechaYHora](../assets/img/03-preparacion_sistema/03-fechayhora.png)
    ![FechaYHora](../assets/img/03-preparacion_sistema/03-fecha.png)
 
 
