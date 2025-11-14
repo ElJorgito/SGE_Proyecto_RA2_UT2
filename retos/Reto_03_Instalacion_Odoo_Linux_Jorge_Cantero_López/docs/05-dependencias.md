@@ -7,21 +7,21 @@ Enlace de fuente: https://www.hostinger.com/es/tutoriales/instalar-python-pip-ub
    sudo apt install python3
    sudo apt install python3-pip (Gestor de paquetes) 
    ```
-   ![LinuxPython](../assets/img/05-dependencias/05-linux-python.png)
-   ![LinuxPython](../assets/img/05-dependencias/05-linux-pip.png)
+   ![LinuxPython](../assets/img/05-dependencias/05-depencencias-python.png)
+   ![LinuxPython](../assets/img/05-dependencias/05-depencencias-python2.png)
 
 2. Instala **wkhtmltopdf** compatible (para reportes PDF).  
 Enlace fuente: http://gist.github.com/roydejong/7f36c1ded1dda627eeee9a0b332e9eff  
 ## Dara un error es normal
-![HTML](../assets/img/05-dependencias/05-html.png)
-![DPKG](../assets/img/05-dependencias/05-sudodpkg.png)
+![HTML](../assets/img/05-dependencias/05-depencencias-html.png)
+![DPKG](../assets/img/05-dependencias/05-depencencias-sudodpkg.png)
 > Hay que ejecutar esto  
-![Sudof](../assets/img/05-dependencias/05-sudof.png)
+![Sudof](../assets/img/05-dependencias/05-postgresql-sudof.png)
 3. Verifica versiones:
    ```bash
    python3 --version
    wkhtmltopdf --version
    ```
-   ![Python](../assets/img/05-dependencias/05-python-version.png)
-   ![Version2](../assets/img/05-dependencias/05-version2.png)
+   ![Python](../assets/img/05-dependencias/05-depencencias-version.png)
+   ![Version2](../assets/img/05-dependencias/05-depencencias-version2.png)
 > Resultado esperado: dependencias instaladas y comprobadas.
